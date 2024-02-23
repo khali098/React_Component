@@ -1,0 +1,39 @@
+.left_component{
+    font-family: sans-serif;
+    margin-top: 10rem;
+ }
+
+.response{
+    font-size: 1.4rem;
+    text-align: left;
+    font-weight: 700;
+    color: rgba(37, 196, 244, 1);
+    cursor: pointer;
+    transition:  text-decoration 1s ease-out;
+}
+
+.response:hover{
+    text-decoration: underline;
+}
+.title{
+margin-top: 0;
+margin-bottom: 1.5rem;
+font-size: 5rem;
+font-weight: 500;
+line-height: 7rem;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
+
+.message{
+   
+font-size: 2rem;
+font-weight: 400;
+line-height: 3rem;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(71, 84, 103, 1);
+;
+
+}
